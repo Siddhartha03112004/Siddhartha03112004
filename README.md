@@ -9,14 +9,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
+<p>
   <a href="https://www.linkedin.com/in/siddhartha-singh-02928b255/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/d1q2miykic/" target="_blank" rel="noopener noreferrer">
-    <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="LeetCode" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
