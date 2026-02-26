@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK and Machine learning**
 
-- 💬 Ask me about **HTMl, CSS, JAVASCRIPT, SQL, REACTJS, C++**
+- 💬 Ask me about **HTMl, CSS, JAVASCRIPT, SQL, REACTJS, C++, TAILWIND CSS, NODEJS, EXPRESSJS**
 
 - 📫 How to reach me **siddharthasingh3112004@gmail.com**
 
