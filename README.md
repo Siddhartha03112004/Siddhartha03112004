@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/d1q2miykic/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/siddharthasingh3112004/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="transition: transform 0.3s; display:inline-block;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'" />
   </a>
 </p>
