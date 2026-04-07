@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Singh</h1>
 <h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | Aspiring SDE</h3>
 
-<!-- ANIME BANNER (Makima vibe) -->
+<!-- 3D WAVE ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Siddhartha%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<!-- MAKIMA ANIME -->
 <p align="center">
-  <img src="https://media.tenor.com/6y6F9tV8bH0AAAAC/makima-chainsaw-man.gif" width="400"/>
+  <img src="https://media.tenor.com/6y6F9tV8bH0AAAAC/makima-chainsaw-man.gif" width="350"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -19,22 +22,13 @@
 
 ---
 
-## 🌗 Theme Toggle (Auto Dark/Light)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha03112004&show_icons=true&theme=default#gh-light-mode-only" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha03112004&show_icons=true&theme=tokyonight#gh-dark-mode-only" height="150"/>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year **ECE student at USICT, GGSIPU**
 - 💻 Solved **300+ DSA problems on LeetCode**
 - 🚀 MERN Stack Developer
 - 🔐 JWT, Passport.js, REST APIs, MVC
-- 🌍 Real-world deployed projects
+- 🌍 Built real-world deployed projects
 - 🎯 Target: **Software Developer (SDE)**
 
 ---
@@ -42,14 +36,14 @@
 ## 🚀 Featured Projects
 
 ### 🌍 WanderLust
-- Full-stack MERN app (CRUD + Auth + Maps)
+- Full-stack MERN app with CRUD, authentication & maps
 
 ### 🤖 AI Thumbnail Generator
-- AI-based thumbnail generator using APIs
+- AI-powered thumbnail generator using APIs
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (3D Style Icons)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,tailwind,git,github,postman" />
@@ -57,11 +51,11 @@
 
 ---
 
-## 📊 GitHub Stats (Dark/Light Toggle)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha03112004&show_icons=true&theme=default#gh-light-mode-only" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha03112004&show_icons=true&theme=tokyonight#gh-dark-mode-only" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha03112004&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha03112004&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -78,7 +72,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake (3D Animation Feel)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -89,8 +83,8 @@
 ## 🎯 Achievements
 
 - 🧠 300+ DSA Problems Solved  
-- 🚀 Built full-stack real-world apps  
-- 🔥 Strong backend + MERN skills  
+- 🚀 Built full-stack real-world applications  
+- 🔥 Strong MERN + backend development skills  
 
 ---
 
@@ -117,5 +111,7 @@
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
 
 ⭐ **"Code. Learn. Build. Repeat." 🚀**
