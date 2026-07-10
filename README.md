@@ -125,9 +125,6 @@ const siddhartha = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhartha03112004&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true" width="95%" />
 </p>
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-<img src="https://github-profile-trophy.vercel.app/?username=Siddhartha03112004&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" width="95%" />
-
 <br/>
 
 <!-- ═══════════════════════ LEETCODE ═══════════════════════ -->
