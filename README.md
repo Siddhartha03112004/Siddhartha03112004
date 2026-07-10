@@ -126,9 +126,7 @@ const siddhartha = {
 </p>
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddhartha03112004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Siddhartha03112004&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" width="95%" />
 
 <br/>
 
