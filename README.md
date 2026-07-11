@@ -112,10 +112,7 @@ const siddhartha = {
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ## 📊 $\color{red}{\textbf{GitHub Analytics}}$
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha03112004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha03112004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Siddhartha03112004&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
